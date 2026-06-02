@@ -2,6 +2,8 @@
 
 **Join the [discord channel](https://discord.gg/dWSnHAFdpb) if you want to learn and build together!**
 
+![Agentic System Course infographic](assets/agentic-course.png)
+
 ---
 
 This is a 22-chapter skeleton course on how to design, build, and operate production AI agents — written to be read with your own AI partner at your side. **An agentic system** is an AI system that can autonomously pursue goals by planning, making decisions, using tools, adapting based on feedback, having memory, etc — instead of only responding to a single prompt. Similar to [Andrej Karpathy's idea file on LLM-wiki](https://gist.github.com/karpathy/442a6bf555914893e9891c11519de94f), **this course is giving you the skeleton and your agent will help you put the muscles on it**.
