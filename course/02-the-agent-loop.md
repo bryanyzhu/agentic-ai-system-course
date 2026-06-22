@@ -198,3 +198,12 @@ A few prompts that work well on this chapter:
 ## What's next
 
 You have a loop. The next thing the loop needs is tools it can trust. Ch.03 is about the contract beyond the schema — argument validation, side-effect classification, idempotency, the difference between a recoverable error and a fatal one, and why safe paths matter more than safe code.
+
+---
+
+<!-- nav-footer -->
+<div align="center">
+
+[⬅️ Prev: Ch.01 One tool call](01-function-calling.md) · [📖 Course index](../README.md) · [Next: Ch.03 Tools the agent can trust ➡️](03-tools-validation.md)
+
+</div>

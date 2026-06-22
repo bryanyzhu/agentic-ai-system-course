@@ -333,3 +333,12 @@ A few prompts that work well on this chapter:
 You now have the architecture, the lifecycle, and the extension surface. The remaining chapters add the layers that production agents need to ship: human-in-the-loop approvals (Ch.12), connectors and MCP (Ch.13), skills and subagent design as a unit (Ch.14), backend infrastructure (Ch.15), observability (Ch.16), cost and latency strategy (Ch.17), safety and adversarial inputs (Ch.18), and operations (Ch.19). Each is a component or concern that bolts onto the harness shape you now have.
 
 Ch.12 is next: the gate that pauses the loop and asks a human before taking high-risk actions.
+
+---
+
+<!-- nav-footer -->
+<div align="center">
+
+[⬅️ Prev: Ch.10 Multi-agent delegation](10-multi-agent-delegation.md) · [📖 Course index](../README.md) · [Next: Ch.12 Human in the loop ➡️](12-human-in-the-loop.md)
+
+</div>

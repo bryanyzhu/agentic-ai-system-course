@@ -284,3 +284,12 @@ A few prompts that work well on this chapter:
 ## What's next
 
 You now have tools the loop can trust. The next layer up is the prompt those tools live in. Ch.04 is about how the system prompt is assembled, why its byte-for-byte stability is the difference between paying for every token every turn and paying once, and what compaction (Ch.05) has to do to avoid breaking that stability.
+
+---
+
+<!-- nav-footer -->
+<div align="center">
+
+[⬅️ Prev: Ch.02 The agent loop](02-the-agent-loop.md) · [📖 Course index](../README.md) · [Next: Ch.04 Prompts, context & cache ➡️](04-prompts-context-cache.md)
+
+</div>

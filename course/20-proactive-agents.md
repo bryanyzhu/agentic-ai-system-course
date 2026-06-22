@@ -260,3 +260,12 @@ A useful rule: *if the action would make a reasonable user say "wait, what?" whe
 ## What's next
 
 You now have a frame for proactive design — the trigger taxonomy, the opt-in discipline, the escalation ladder, the timing modes, and the failure modes specific to work done while no user is watching. Ch.21 picks up from a related angle: instead of *the agent acting on its own*, what if *the agent improves itself on its own?* Self-evolving agents — memory consolidation, skill learning, prompt refinement, LoRA personalization — are the natural complement to proactive scheduling, with the same gating discipline and the same need for the rollback paths from Ch.07.
+
+---
+
+<!-- nav-footer -->
+<div align="center">
+
+[⬅️ Prev: Ch.19 Ops & forward-deployed](19-ops-and-forward-deployed.md) · [📖 Course index](../README.md) · [Next: Ch.21 Self-evolving agents ➡️](21-self-evolving-agents.md)
+
+</div>

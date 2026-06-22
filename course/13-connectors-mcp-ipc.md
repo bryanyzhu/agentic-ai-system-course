@@ -425,3 +425,12 @@ A few prompts that work well on this chapter:
 ## What's next
 
 Chapter 14 turns from the integration plumbing to the *unit of extension*: skills, MCP servers, and subagents — three different shapes the same capability can take, and the design decisions that pick between them.
+
+---
+
+<!-- nav-footer -->
+<div align="center">
+
+[⬅️ Prev: Ch.12 Human in the loop](12-human-in-the-loop.md) · [📖 Course index](../README.md) · [Next: Ch.14 Skills, MCP & subagents ➡️](14-skills-mcp-subagents.md)
+
+</div>

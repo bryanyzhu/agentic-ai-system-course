@@ -387,3 +387,12 @@ Paperclip ships all five in its web UI. The pattern: operator views are read-onl
 ## What's next
 
 You now have a backend that survives many users, many machines, and the day a deploy interrupts ten in-flight agent sessions. The next chapter adds the *visibility* — Ch.16 covers observability: traces, metrics, the audit log as signal, and what to log so post-incident review can answer the questions you will eventually need to answer.
+
+---
+
+<!-- nav-footer -->
+<div align="center">
+
+[⬅️ Prev: Ch.14 Skills, MCP & subagents](14-skills-mcp-subagents.md) · [📖 Course index](../README.md) · [Next: Ch.16 Observability ➡️](16-observability.md)
+
+</div>

@@ -99,3 +99,12 @@ You do not need permission to start. You do not need to read every chapter befor
 The people shipping the most interesting agentic systems today are not the ones with the most experience. They are the ones who got into a tight loop with their AI partner first and stayed in it longest. This course exists so that when you are in that loop, you know what to ask.
 
 Turn the page. Ch.01 is one tool call.
+
+---
+
+<!-- nav-footer -->
+<div align="center">
+
+[📖 Course index](../README.md) · [Next: Ch.01 One tool call ➡️](01-function-calling.md)
+
+</div>

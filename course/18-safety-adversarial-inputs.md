@@ -317,3 +317,12 @@ Ch.19 will cover the operational side of running these motions — runbooks, on-
 ## What's next
 
 You now have a threat model, a control matrix, and the discipline of defense in depth. Ch.19 turns to the operational side: how to run an agent system in production over time — packaging, deployment, runbooks, on-call rotations, the post-mortem template, and the forward-deployed pattern where the agent ships with the operator close enough to fix things in person.
+
+---
+
+<!-- nav-footer -->
+<div align="center">
+
+[⬅️ Prev: Ch.17 Cost, latency & model strategy](17-cost-latency-model-strategy.md) · [📖 Course index](../README.md) · [Next: Ch.19 Ops & forward-deployed ➡️](19-ops-and-forward-deployed.md)
+
+</div>

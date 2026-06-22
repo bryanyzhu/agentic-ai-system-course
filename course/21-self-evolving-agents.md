@@ -313,3 +313,12 @@ A pointer outside the open-source repos: Anthropic's writing on *post-training* 
 ## What's next
 
 You now have the full agent + integration + scaling + visibility + economics + safety + operations + proactivity + evolution spine. Twenty-one chapters in, the question becomes: what does your own agent need to ship? Ch.22 closes the course with a design canvas — a structured way to translate everything in Ch.01–21 into the specific shape of your project: the archetype, the bounded set of tools, the planning pattern, the memory layer, the deployment topology, the safety controls, the proactive triggers, the evolution policy. Less reading; more deciding.
+
+---
+
+<!-- nav-footer -->
+<div align="center">
+
+[⬅️ Prev: Ch.20 Proactive agents](20-proactive-agents.md) · [📖 Course index](../README.md) · [Next: Ch.22 Designing your own agent ➡️](22-designing-your-own-agent.md)
+
+</div>

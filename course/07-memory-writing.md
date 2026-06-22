@@ -273,3 +273,12 @@ A few prompts that work well on this chapter:
 ## What's next
 
 You now have a memory store that retrieves well, writes safely, and grooms itself over time. The next layer is what happens when the *agent itself* needs to be reconstituted from disk — when a process restarts, a node fails, or a long-running task spans a deploy. Ch.08 is about durable execution state: how to resume an agent without re-paying for what it already did and without doing anything twice.
+
+---
+
+<!-- nav-footer -->
+<div align="center">
+
+[⬅️ Prev: Ch.06 Long-term recall](06-long-term-recall.md) · [📖 Course index](../README.md) · [Next: Ch.08 State and persistence ➡️](08-state-and-persistence.md)
+
+</div>

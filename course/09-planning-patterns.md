@@ -271,3 +271,12 @@ A few prompts that work well on this chapter:
 ## What's next
 
 You now know when to plan and how to express the plan. The next question is what to do when the plan needs *another agent* to execute part of it. Ch.10 covers delegation — the packet a parent hands a subagent, the result contract that comes back, recursion caps, isolation modes, and when delegation is the right call vs when a tool would do.
+
+---
+
+<!-- nav-footer -->
+<div align="center">
+
+[⬅️ Prev: Ch.08 State and persistence](08-state-and-persistence.md) · [📖 Course index](../README.md) · [Next: Ch.10 Multi-agent delegation ➡️](10-multi-agent-delegation.md)
+
+</div>

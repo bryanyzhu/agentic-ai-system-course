@@ -308,3 +308,12 @@ The seven fields are what every runbook should answer; the template is short eno
 ## What's next
 
 You can now run an agent in production over time, recover from incidents with documented motions, and feed signals back into the agent's behavior. Ch.20 explores a closely related angle: *the agent acting on its own initiative.* Proactive agents — cron-scheduled work, event-driven wakeups, watchdogs, background curation — change the failure mode set and add their own design discipline (opt-in semantics, the escalation ladder, the *no user is watching* rules). Ch.21 then picks up *the agent improving its own behavior between runs* — self-evolving memory, skills, prompts, and weights. Ch.22 closes the course with a design canvas that helps you decide what shape of agent your own project actually needs.
+
+---
+
+<!-- nav-footer -->
+<div align="center">
+
+[⬅️ Prev: Ch.18 Safety & adversarial inputs](18-safety-adversarial-inputs.md) · [📖 Course index](../README.md) · [Next: Ch.20 Proactive agents ➡️](20-proactive-agents.md)
+
+</div>

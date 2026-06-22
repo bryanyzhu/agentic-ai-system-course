@@ -314,3 +314,12 @@ A few prompts that work well on this chapter:
 ## What's next
 
 You now know the unit of extension. Ch.15 moves to the *backend* that keeps the harness running at scale — queues, streaming endpoints, durable side-effect machinery, and the runtime that hosts the loop, the memory, the persistence, and the connectors when there are more than one user and more than one session in flight.
+
+---
+
+<!-- nav-footer -->
+<div align="center">
+
+[⬅️ Prev: Ch.13 Connectors, MCP, IPC](13-connectors-mcp-ipc.md) · [📖 Course index](../README.md) · [Next: Ch.15 Backend infrastructure ➡️](15-backend-infrastructure.md)
+
+</div>

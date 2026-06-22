@@ -279,3 +279,12 @@ A few prompts that work well on this chapter:
 ## What's next
 
 You now have a prompt designed to stay cache-warm and reproducible. The next problem is the volatile tail it sits on top of — the conversation history, tool results, and working memory that grow every turn. Ch.05 covers how to keep that tail from exploding without breaking the cache you just built; Ch.06–07 cover the longer-term memory that feeds back into the *next* session's prefix, where this chapter's discipline starts paying you back.
+
+---
+
+<!-- nav-footer -->
+<div align="center">
+
+[⬅️ Prev: Ch.03 Tools the agent can trust](03-tools-validation.md) · [📖 Course index](../README.md) · [Next: Ch.05 Short-term memory ➡️](05-short-term-memory.md)
+
+</div>

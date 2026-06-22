@@ -329,3 +329,12 @@ A few prompts that work well on this chapter:
 ## What's next
 
 You now have a control surface for high-impact actions: a ruleset, a set of approval surfaces, a suspend-and-resume protocol, time-bounded approvals, and an audit log that answers the *who, what, when, why* questions after the fact. Ch.13 covers the layer beneath the surfaces — connectors and MCP. The first time you connect to a third-party MCP server, the approval gate from this chapter is what asks you whether you trust it.
+
+---
+
+<!-- nav-footer -->
+<div align="center">
+
+[⬅️ Prev: Ch.11 The agent harness](11-agent-harness.md) · [📖 Course index](../README.md) · [Next: Ch.13 Connectors, MCP, IPC ➡️](13-connectors-mcp-ipc.md)
+
+</div>

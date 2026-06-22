@@ -1,5 +1,7 @@
 # Agentic System Course - Use Agent to Learn Agent
 
+> English · [中文](README_zh.md)
+
 **Join the [discord channel](https://discord.gg/dWSnHAFdpb) if you want to learn and build together!**
 
 ---
@@ -60,6 +62,32 @@ In Claude Code, just describe what you want — *"review this against the course
 | **Ch.18–19** | Quality and ops: safety/adversarial inputs → operations and forward-deployed |
 | **Ch.20–21** | Agency: proactive agents → self-evolving agents |
 | **Ch.22** | Design canvas: designing your own agent |
+
+### Chapter index (click to open)
+
+- [Ch.00 · How to use this course](course/00-how-to-use-this-course.md)
+- [Ch.01 · One tool call](course/01-function-calling.md)
+- [Ch.02 · The agent loop](course/02-the-agent-loop.md)
+- [Ch.03 · Tools the agent can trust](course/03-tools-validation.md)
+- [Ch.04 · Prompts, context & cache](course/04-prompts-context-cache.md)
+- [Ch.05 · Short-term memory](course/05-short-term-memory.md)
+- [Ch.06 · Long-term recall](course/06-long-term-recall.md)
+- [Ch.07 · Memory writing & curation](course/07-memory-writing.md)
+- [Ch.08 · State and persistence](course/08-state-and-persistence.md)
+- [Ch.09 · Planning patterns](course/09-planning-patterns.md)
+- [Ch.10 · Multi-agent delegation](course/10-multi-agent-delegation.md)
+- [Ch.11 · The agent harness](course/11-agent-harness.md)
+- [Ch.12 · Human in the loop](course/12-human-in-the-loop.md)
+- [Ch.13 · Connectors, MCP, IPC](course/13-connectors-mcp-ipc.md)
+- [Ch.14 · Skills, MCP & subagents](course/14-skills-mcp-subagents.md)
+- [Ch.15 · Backend infrastructure](course/15-backend-infrastructure.md)
+- [Ch.16 · Observability](course/16-observability.md)
+- [Ch.17 · Cost, latency & model strategy](course/17-cost-latency-model-strategy.md)
+- [Ch.18 · Safety & adversarial inputs](course/18-safety-adversarial-inputs.md)
+- [Ch.19 · Ops & forward-deployed](course/19-ops-and-forward-deployed.md)
+- [Ch.20 · Proactive agents](course/20-proactive-agents.md)
+- [Ch.21 · Self-evolving agents](course/21-self-evolving-agents.md)
+- [Ch.22 · Designing your own agent](course/22-designing-your-own-agent.md)
 
 The chapters are ordered so each one only assumes what came before. If you have a clear project, skim chapters that do not apply yet and come back when they do. Suggested learning paths by project shape (coding agent, personal assistant, multi-tenant tool, research agent, just exploring) are in `CLAUDE.md`.
 

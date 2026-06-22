@@ -268,3 +268,12 @@ A few prompts that work well on this chapter:
 You now have a compact, deduplicated, summarized operating transcript that does not blow the context window. None of it survives the next session.
 
 Ch.06 is about the memory that *does* survive — what you persist between runs, how the model retrieves it, and how vector indexes, full-text search, and hybrid retrieval compare. Ch.07 is then about how to write to that memory safely, without poisoning it or letting it drift over time.
+
+---
+
+<!-- nav-footer -->
+<div align="center">
+
+[⬅️ Prev: Ch.04 Prompts, context & cache](04-prompts-context-cache.md) · [📖 Course index](../README.md) · [Next: Ch.06 Long-term recall ➡️](06-long-term-recall.md)
+
+</div>

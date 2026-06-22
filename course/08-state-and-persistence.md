@@ -263,3 +263,12 @@ A few prompts that work well on this chapter:
 You now have a runtime that survives restarts, coordinates work across processes, and resumes cleanly without doing destructive work twice.
 
 The next layer up is *planning* — how an agent decides what to do across many steps *before* executing them. Ch.09 covers the four planning shapes (no plan, checklist, plan-execute-replan, dependency graph), when each one helps, when it hurts, and the failure modes hidden in the easiest choices.
+
+---
+
+<!-- nav-footer -->
+<div align="center">
+
+[⬅️ Prev: Ch.07 Memory writing & curation](07-memory-writing.md) · [📖 Course index](../README.md) · [Next: Ch.09 Planning patterns ➡️](09-planning-patterns.md)
+
+</div>

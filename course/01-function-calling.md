@@ -161,3 +161,12 @@ A few prompts that work well on this chapter:
 ## What's next
 
 One tool call is the atom. Ch.02 puts it inside a loop with stop conditions, retries, and the ability to chain calls into multi-step work. That is the boundary where chatbots end and agents begin.
+
+---
+
+<!-- nav-footer -->
+<div align="center">
+
+[⬅️ Prev: Ch.00 How to use this course](00-how-to-use-this-course.md) · [📖 Course index](../README.md) · [Next: Ch.02 The agent loop ➡️](02-the-agent-loop.md)
+
+</div>

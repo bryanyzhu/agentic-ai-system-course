@@ -423,3 +423,12 @@ OpenTelemetry GenAI conventions themselves evolve. Treat them as the canonical n
 ## What's next
 
 You can now see what your agent is doing. The next chapter uses those measurements to decide *which model* and *which provider* to use, when to fall back, when to throttle, and how to enforce per-tenant budgets in real time. Ch.17 is cost and latency strategy.
+
+---
+
+<!-- nav-footer -->
+<div align="center">
+
+[⬅️ Prev: Ch.15 Backend infrastructure](15-backend-infrastructure.md) · [📖 Course index](../README.md) · [Next: Ch.17 Cost, latency & model strategy ➡️](17-cost-latency-model-strategy.md)
+
+</div>

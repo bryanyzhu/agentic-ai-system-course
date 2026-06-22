@@ -93,3 +93,12 @@ These are lenses, not required builds. Most real projects blend two — a coding
 The point of the course was never to make you reproduce someone else's product or memorize a framework. It was to give you a system map. Once you can name the loop, the boundary, the prompt, the memory, the persistence, the planner, the delegation, the harness, the approval gate, the connector, the skill, the backend, the trace, the routing, the safety policy, the runbook, and the evolution feedback edge, you can design your own thing with much better instincts — and your agent can fill in the rest.
 
 Go build something you actually want to exist. The agent reading this with you is ready when you are.
+
+---
+
+<!-- nav-footer -->
+<div align="center">
+
+[⬅️ Prev: Ch.21 Self-evolving agents](21-self-evolving-agents.md) · [📖 Course index](../README.md)
+
+</div>

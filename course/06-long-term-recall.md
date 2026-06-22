@@ -277,3 +277,12 @@ A few prompts that work well on this chapter:
 You now know where memory lives, how to retrieve it, how to rank what comes back, and how it fits the cache discipline from Ch.04.
 
 The harder problem is what to write into memory in the first place — and how to keep it from rotting. Ch.07 covers writing modes, the safety filter at the memory boundary, atomic writes and concurrent-writer contention, conflict resolution, the curator lifecycle that keeps memory pruned, and how subagents are and are not allowed to write back.
+
+---
+
+<!-- nav-footer -->
+<div align="center">
+
+[⬅️ Prev: Ch.05 Short-term memory](05-short-term-memory.md) · [📖 Course index](../README.md) · [Next: Ch.07 Memory writing & curation ➡️](07-memory-writing.md)
+
+</div>

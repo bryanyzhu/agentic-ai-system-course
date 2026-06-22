@@ -285,3 +285,12 @@ A few prompts that work well on this chapter:
 ## What's next
 
 You now have a parent agent that can plan, a way to express subagent work as bounded packets, and the discipline to keep delegation focused. Ch.11 puts everything from Ch.01–10 together as a single harness — the loop, the tool registry, the prompt builder, the memory layer, the persistence engine, the planner, the delegation surface — into one composable architecture you can adapt to your stack.
+
+---
+
+<!-- nav-footer -->
+<div align="center">
+
+[⬅️ Prev: Ch.09 Planning patterns](09-planning-patterns.md) · [📖 Course index](../README.md) · [Next: Ch.11 The agent harness ➡️](11-agent-harness.md)
+
+</div>

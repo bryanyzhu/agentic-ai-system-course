@@ -342,3 +342,12 @@ Surface all of these as policy knobs on the routing layer, not as hardcoded cons
 ## What's next
 
 You now have a routing layer that picks the right model for each call, knows when not to call a model at all, recovers from provider failures, and enforces budgets without surprise charges. The next chapter shifts from cost control to harm prevention: Ch.18 covers safety and adversarial inputs — prompt injection, the threat model at the memory boundary, tool scoping, and the policy controls that keep an agent from being weaponized against its user.
+
+---
+
+<!-- nav-footer -->
+<div align="center">
+
+[⬅️ Prev: Ch.16 Observability](16-observability.md) · [📖 Course index](../README.md) · [Next: Ch.18 Safety & adversarial inputs ➡️](18-safety-adversarial-inputs.md)
+
+</div>
